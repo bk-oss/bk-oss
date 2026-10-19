@@ -1,16 +1,58 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**bk-oss/bk-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Mouhamed Amine Baklouti 👋
+### Data Engineering Student & AI/NLP Builder
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amine-baklouti-6b2103322/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bk-oss.github.io/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminebaklouti56@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>Engineering scalable ETL data pipelines & building actionable AI (RAG, Speech, Transformers, Semantic Search).</i>
+</p>
+
+---
+
+</div>
+
+### 🚀 About Me
+
+- 🎓 **Data Engineering & Decision Systems** engineering student at **ENET'COM** (2024–Present)
+- 💼 Prior Data Science / AI Intern at **Sofrecom** & Data Engineering Intern at **Tradrly**
+- 🛠️ Passionate about **Large Language Models (LLM)**, **Retrieval-Augmented Generation (RAG)**, **Speech Recognition (ASR)**, and **Data Pipelines**
+- 🎯 Seeking an **End-of-Studies Internship (PFE)** in **Data Science / Deep Learning / Recommendation Systems** (6 months from Jan 2027)
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+| Domain | Technologies & Libraries |
+| :--- | :--- |
+| **AI & Machine Learning** | `PyTorch` `Hugging Face Transformers` `Whisper` `Deepgram` `pyannote.audio` `Scikit-learn` `Embeddings` `RAG` |
+| **Data & Databases** | `Python` `SQL` `PostgreSQL` `SQLite` `Pandas` `NumPy` `Elasticsearch` `ETL Pipelines` `OCR` `Fuzzy Matching` |
+| **Backend & DevOps** | `FastAPI` `REST API` `Docker` `Git` `Linux` `pytest` `FFmpeg` |
+| **Big Data (Academic)** | `Apache Spark` `Data Warehousing` `MLOps` |
+
+---
+
+### 🌟 Featured Projects
+
+- 🎙️ **[TranscriptoSense](https://github.com/bk-oss/transcriptosense)**: AI-driven multilingual audio transcription & diarization platform supporting 20+ languages with automated translation, fallback engines, and 100% local privacy mode.
+- 🧭 **[GuideMe](https://github.com/bk-oss/GuideMe)**: Smart navigation and orientation assistant system.
+- 🤖 **Bakery RAG Assistant**: RAG tool using dense vector embeddings + PostgreSQL to ground enterprise answers and eliminate hallucinations *(AI Night Challenge 5th Ed.)*.
+- 🔎 **[Product Name Extraction & Matching](https://github.com/bk-oss/product-name-extraction)**: Automated vendor catalog OCR extraction, fuzzy matching, and price comparison engine.
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bk-oss&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" alt="bk-oss stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bk-oss&layout=compact&theme=radical&hide_border=true" height="165" alt="top languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <i>⭐ Feel free to explore my repositories, open an issue, or connect with me on <a href="https://www.linkedin.com/in/amine-baklouti-6b2103322/">LinkedIn</a>!</i>
+</div>
